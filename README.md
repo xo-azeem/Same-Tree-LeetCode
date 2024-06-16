@@ -44,5 +44,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Same-Tree-LeetCode/assets/171427226/d2a399ce-19d1-461c-8045-51a7942f78ef)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(n).</br>Space complexity: O(n).
 </div>
